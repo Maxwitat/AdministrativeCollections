@@ -1,4 +1,4 @@
-# AdministrativeCollections
+# Administrative Collections
 The script is based on Benoit Lecours collection https://www.systemcenterdudes.com/create-operational-sccm-collection-using-powershell-script/. I extended it by some collections that I frequently implement. I have found most of the queries somewhere but can't give a complete list of references. I also commented out around 100 collections that are partially a bit obsolete and partially only useful in some cases.
 
 Collections that where added:

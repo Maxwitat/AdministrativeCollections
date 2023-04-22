@@ -3,13 +3,13 @@ The script is based on Benoit Lecours collection https://www.systemcenterdudes.c
 
 Collections that where added:
 
-System Health | No cummulative update for more than 60 days
-System Health | WUA service disabled
-System Health | WUA service not up-to-date
-System Health | Systems that are not in AD
-System Health | No heartbeat since 30 days
-System Health | Low disk space: < 1GB
-System Health | Low disk space: < 5GB
+- System Health | No cummulative update for more than 60 days
+- System Health | WUA service disabled
+- System Health | WUA service not up-to-date
+- System Health | Systems that are not in AD
+- System Health | No heartbeat since 30 days
+- System Health | Low disk space: < 1GB
+- System Health | Low disk space: < 5GB
 
 Links:
 https://www.systemcenterdudes.com/create-operational-sccm-collection-using-powershell-script/

@@ -14,7 +14,7 @@ Collections that where added:
 The update interval will be set to weekly on Sunday. The time is the creation time.
 
 Links:
-https://www.systemcenterdudes.com/create-operational-sccm-collection-using-powershell-script/
-https://www.andersrodland.com/ultimate-sccm-querie-collection-list/
-https://www.sccm.ie/how-to/22-useful-sccm-collections-query
-https://github.com/gwblok/garytown/blob/master/CreateDeviceCollections
+- https://www.systemcenterdudes.com/create-operational-sccm-collection-using-powershell-script/
+- https://www.andersrodland.com/ultimate-sccm-querie-collection-list/
+- https://www.sccm.ie/how-to/22-useful-sccm-collections-query
+- https://github.com/gwblok/garytown/blob/master/CreateDeviceCollections
